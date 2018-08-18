@@ -11,6 +11,7 @@ this randomly generated text file yourself from the relevant location.
 When you do not like it, you can create a new map.
 
 ![MazeControl](https://github.com/malionde/Maze-Game--C--on-Winform-/blob/master/Maze_Control.png)
-![MazeMap](https://github.com/malionde/Maze-Game--C--on-Winform-/blob/master/Maze_Map.PNG)
 ![MazeWall](https://github.com/malionde/Maze-Game--C--on-Winform-/blob/master/Maze_Wall.png)
 ![MazeWin](https://github.com/malionde/Maze-Game--C--on-Winform-/blob/master/Maze_Win.png)
+![MazeMap](https://github.com/malionde/Maze-Game--C--on-Winform-/blob/master/Maze_Map.PNG)
+
