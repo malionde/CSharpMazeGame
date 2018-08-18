@@ -1,4 +1,4 @@
-# Maze-Game--C--on-Winform-
+# Maze-Game-C#-on-Winform-
 keyboard-controlled maze game prepared in windows forms platform with C#
 
 You will try to reach the end point with the keyboard keys in this vote prepared with C #.
