@@ -9,3 +9,8 @@ When you start each game, a text file consisting of 0s and 1s is created and
 the generated text file is read to create roads and walls. You can interfere with 
 this randomly generated text file yourself from the relevant location. 
 When you do not like it, you can create a new map.
+
+![MazeControl](https://github.com/malionde/Maze-Game--C--on-Winform-/blob/master/Maze_Control.png)
+![MazeMap](https://github.com/malionde/Maze-Game--C--on-Winform-/blob/master/Maze_Map.png)
+![MazeWall](https://github.com/malionde/Maze-Game--C--on-Winform-/blob/master/Maze_Wall.png)
+![MazeWin](https://github.com/malionde/Maze-Game--C--on-Winform-/blob/master/Maze_Win.png)
